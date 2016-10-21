@@ -1,4 +1,4 @@
-# Crash Testing
+# Testing Crash Course
 
 ## Step 1
 
@@ -10,8 +10,18 @@
 
 * Implement Laravel's [array_forget()](https://laravel.com/docs/5.3/helpers#method-array-forget)
 
-## Helpful References
+## Resources
 
+### Useful PHP Functions
+* To divide a string to an array, given a delimiter: [explode()](http://php.net/manual/en/function.explode.php)
+* To remove array elements: [unset()](http://php.net/manual/en/function.unset.php)
+
+### Useful PHPUnit Assertions
+* `$this->assertEquals(expectation, actual)` [docs](https://phpunit.de/manual/current/en/appendixes.assertions.html#appendixes.assertions.assertEquals)
+* `$this->assertArraySubset(subset, array, strict)` [docs](https://phpunit.de/manual/current/en/appendixes.assertions.html#appendixes.assertions.assertArraySubset)
+* `$this->assertCount(expected_count, array)` [docs](https://phpunit.de/manual/current/en/appendixes.assertions.html#appendixes.assertions.assertCount)
+
+### Other
 * [PHPUnit Assertions](https://phpunit.de/manual/current/en/appendixes.assertions.html)
 
 ## Specs
