@@ -1,3 +1,6 @@
+## Thesis
+Why test? What does automated tests provide us?
+
 ## Intro Points
 * Hand-Testing vs. Automated Testing
 * Hand testing is something that every developer already does
@@ -8,7 +11,7 @@
 ## Demo Recap Points
 * Tests describe a specification
 * Tests only cover what you describe
-* Red-Green Testing
+* Red-Green-Refactor cycle
 
 ## (Workshop)
 
@@ -18,6 +21,7 @@
     * Transportable
     * Reproducible
 * Benefits of testing:
+    * The specification is packaged with the code
     * Decrease refactoring fear
     * Often leads to more comprehensible architecture, eg - tests act as a sort of 'canary'.
         * If you can't think of how to test, do you have a good specification?
