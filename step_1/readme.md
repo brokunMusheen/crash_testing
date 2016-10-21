@@ -2,9 +2,9 @@
 
 ## Step 1
 
-* (walk through) Implement Laravel's [array_get()](https://laravel.com/docs/5.3/helpers#method-array-get)
+* (demo) Implement Laravel's [array_pull()](https://laravel.com/docs/5.3/helpers#method-array-pull)
 
-* Implement Laravel's [array_pull()](https://laravel.com/docs/5.3/helpers#method-array-pull)
+* Implement Laravel's [array_get()](https://laravel.com/docs/5.3/helpers#method-array-get)
 
 * Implement Laravel's [array_except()](https://laravel.com/docs/5.3/helpers#method-array-except)
 
