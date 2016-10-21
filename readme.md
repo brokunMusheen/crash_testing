@@ -6,4 +6,5 @@ This course uses PHP / PHPUnit to teach these concepts.
 ## Requirements
 * PHP 5.6
 * [Composer](https://getcomposer.org/)
+* [Git](https://git-scm.com/)
 * Working knowledge of PHP
